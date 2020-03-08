@@ -1,0 +1,351 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UniTimetableSystem
+</name>
+</assembly>
+<members>
+<member name="T:sdptbtest.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:sdptbtest.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:sdptbtest.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.AdminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.AppointmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.ConsultationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.CourseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.IntakeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.Intake_ModuleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.LectureDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.StudentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.TimetableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.UserDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.VenueDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.AdminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.AppointmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.ConsultationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.CourseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.IntakeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.Intake_ModuleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.LectureRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.StudentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.TimetableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.UserRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.VenueRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.AdminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.AppointmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.ConsultationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.CourseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.IntakeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.Intake_ModuleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.LectureRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.StudentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.TimetableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.UserRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSet.VenueRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.AdminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.AppointmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.ConsultationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.CourseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.IntakeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.Intake_ModuleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.LectureTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.StudentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.TimetableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.UserTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.VenueTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:sdptbtest.abcDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(sdptbtest.abcDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:sdptbtest.abcDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(sdptbtest.abcDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:sdptbtest.abcDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(sdptbtest.abcDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:sdptbtest.abcDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:sdptbtest.abcDataSetTableAdapters.TableAdapterManager.UpdateAll(sdptbtest.abcDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:sdptbtest.abcDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:sdptbtest.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:sdptbtest.DataSet1.TimetableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.DataSet1.TimetableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.DataSet1.TimetableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:sdptbtest.DataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:sdptbtest.DataSet2.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.DataSet2.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.DataSet2.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:sdptbtest.DataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:sdptbtest.DataSet3.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:sdptbtest.DataSet3.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:sdptbtest.DataSet3.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

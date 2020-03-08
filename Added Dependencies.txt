@@ -1,0 +1,4 @@
+﻿# NuGet
+# for report
+Install-Package Microsoft.ReportViewer.Runtime.Common -Version 12.0.2402.15
+Install-Package Microsoft.SqlServer.Types -Version 14.0.1016.290
