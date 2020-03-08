@@ -14,16 +14,18 @@ This is academic project which contains a winform (desktop) application develope
     - Username: admin
     - Password: admin
     
-  - Lecturer
+  - Lecturer 1
     - Username: lect1
     - Password: lect1
-
+    
+  - Lecturer 2
     - Username: lect2
     - Password: lect2
 
-  - Student
+  - Student1
     - Username: student1
     - Password: student1
-
+    
+  - Student 2
     - Username: student2
     - Password: student2
