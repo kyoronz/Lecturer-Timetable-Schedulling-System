@@ -22,7 +22,7 @@ This is academic project which contains a winform (desktop) application develope
     - Username: lect2
     - Password: lect2
 
-  - Student1
+  - Student 1
     - Username: student1
     - Password: student1
     
